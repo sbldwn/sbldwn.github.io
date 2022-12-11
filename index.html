@@ -39,28 +39,30 @@
               <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Projects</a>
+              <a class="nav-link" href="#Projects">Projects</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">About Me</a>
+              <a class="nav-link" href="#About Me">About Me</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Contact</a>
+              <a class="nav-link" href="#Contact">Contact</a>
             </li>
           </ul>
         </div>
       </div>
     </nav>
 
-    <!-- Link to Project: Zoomies? -- Accordion or Thumbnail -->
-    <div class="position-relative">
+    <!-- Link to Project: Zoomies -->
+    <div id="Projects" class="position-relative">
       <img src="./img/Everyone Can Code.jpg" alt="Banner that says Everyone Can Code!" class="img-fluid">
-      <div class="position-absolute top-100 start-50 translate-middle-x translate-end-y"><a href="../class-project-pet-store/index.html">Link to a class project example</a></div>
+      <br>
+      <br>
+      <div class="position-absolute top-100 start-50 translate-middle-x translate-end-y"><a href="../class-project-pet-store/index.html">Click here to see an example project</a></div>
     </div>
     <br>
     <br>
 
-    <section id="About Me">
+    <section>
       
       <!-- Carousel -->
       <div id="carouselExampleCaptions" class="carousel slide border border-3 border-white" data-bs-ride="false">
@@ -73,13 +75,13 @@
         <div class="carousel-item active">
           <img src="./img/Bus Stop.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <p>Don't know what I'm doing; trying to find the magic in life...</p>
+            <p>I keep searching and searching for answers...</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="./img/Multiple Books.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <p>Most of the time you can find me trying to find the answers in books...</p>
+            <p>When not coding, you can find me trying to find the answers in books...</p>
           </div>
         </div>
         <div class="carousel-item">
@@ -99,12 +101,15 @@
       </button>
       </div>
 
-      <div id="wish" style="height: 120vh" class="parallax container-fluid">
-        <h2>About Me</h2>
-        <p>
-        About me...blah, blah, blah
-        </p>
+      <div id="About Me">
+        <div id="wish" style="height: 33vh" class="parallax container-fluid">
+          <h2>About Me</h2>
+          <p>
+            
+          </p>
+        </div>
       </div>
+      
     </section>
   
   
@@ -112,7 +117,17 @@
   
     <!-- Contact Form -->
     <form>
-      
+      <h2>Contact</h2>
+      <div class="mb-3">
+        <label for="exampleFormControlInput1" class="form-label">Email address</label>
+        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+      </div>
+      <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Your Message Here</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+      <div class="col-auto">
+        <button type="submit" class="btn btn-secondary mb-3">Submit</button>
     </form>
 
 
