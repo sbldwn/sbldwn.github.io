@@ -17,6 +17,12 @@ Multiple Books Photo by <a href="https://unsplash.com/@rey_7?utm_source=unsplash
   
 
 Boat on Stars Photo by <a href="https://unsplash.com/@jplenio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Johannes Plenio</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-<a href="https://unsplash.com/photos/DKix6Un55mw">Link to photo>/a>
+<a href="https://unsplash.com/photos/DKix6Un55mw">Link to photo</a>
+
+Dandelion Wish Photo by <a href="https://unsplash.com/@saadchdhry?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Saad Chaudhry</a> on <a href="https://unsplash.com/s/photos/dandelion?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<a href="https://unsplash.com/photos/YNM4KStg78I">Link to photo</a>
+
+Everyone Can Code Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+<a href="https://unsplash.com/photos/mDinBvq1Sfg">Link to photo</a>  
   
   

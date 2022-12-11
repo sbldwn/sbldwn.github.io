@@ -1,5 +1,7 @@
 /* Google Fonts */
-
+body {
+    background-color: darkslateblue;
+}
 
 .carousel-caption {
     font-family: 'Goudy Bookletter 1911', serif !important;
@@ -11,4 +13,19 @@ p {
 
 h1,h2 {
     font-family: 'Unna', serif !important;
+}
+
+#wish {
+    background-image: url(../img/Dandelion\ Wish.jpg)
+}    
+ 
+.parallax {
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+i {
+    position: center;
 }
