@@ -121,15 +121,19 @@
   
   
     <!-- Contact Form -->
-    <form id="Contact">
+    <form id="Contact" action="https://formspree.io/f/mgeqgqvv" method="POST">
       <h2>Contact</h2>
       <div class="mb-3">
-        <label for="exampleFormControlInput1" class="form-label">Email address</label>
-        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        <label>
+          Your email:
+          <input type="email" name="email">
+        </label>
       </div>
       <div class="mb-3">
-        <label for="exampleFormControlTextarea1" class="form-label">Your Message Here</label>
-        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <label>
+          Your message:
+          <textarea name="message"></textarea>
+        </label>
       </div>
       <div class="col-auto">
         <button type="submit" class="btn btn-secondary mb-3">Submit</button>
@@ -141,6 +145,7 @@
         <!-- Home Icon -->
         <a href="#nav"><i class="fa-solid fa-house"></i></a>
 
+        <!-- Example Project -->
         <a href="#Projects"><i class="fa-solid fa-laptop-code"></i></a>
 
         <!-- About Me Icon -->
