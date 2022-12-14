@@ -16,8 +16,11 @@ h1,h2 {
 }
 
 #wish {
-    background-image: url(../img/Dandelion\ Wish.jpg)
-}    
+    /* background-image: url(../img/Dandelion\ Wish.jpg) */
+    /* Image with shade gradient */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(../img/Dandelion\ Wish.jpg);
+
+}
  
 .parallax {
     background-attachment: fixed;
